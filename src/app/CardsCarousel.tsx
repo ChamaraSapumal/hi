@@ -36,7 +36,7 @@ const DummyContent = () => {
                             Langotiya jeetu ka mara hua yaar is ready to capture every
                             thought.
                         </p>
-                        <Image
+                        <img
                             src="https://assets.aceternity.com/macbook.png"
                             alt="Macbook mockup from Aceternity UI"
                             height="500"

@@ -20,10 +20,10 @@ export function HeroHighlightDemo() {
                 }}
                 className="text-2xl px-4 md:text-4xl lg:text-5xl font-bold text-neutral-700 dark:text-white max-w-4xl leading-relaxed lg:leading-snug text-center mx-auto "
             >
-                With insomnia, nothing&apos;s real. Everything is far away. Everything
+                With innovation, nothing&apos;s static. Everything Everything evolves. Everything
                 is a{" "}
                 <Highlight className="text-black dark:text-white">
-                    copy, of a copy, of a copy.
+                    version, of a version, of a version.
                 </Highlight>
             </motion.h1>
         </HeroHighlight>
